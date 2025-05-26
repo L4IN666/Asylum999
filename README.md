@@ -43,7 +43,7 @@ I'm a passionate beginner who codes with calm spirit:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e6e6e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
 ---
