@@ -1,27 +1,66 @@
-# 💫 About Me:
-Let's be friend shall we? :)
+<!-- README.md Asylum999 -->
 
+<h1 align="center" style="color:#e48fb1; font-family:'Segoe UI', sans-serif;">
+  Welcome to my GitHub :)
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diiandraa_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adzkadiandra@gmail.com) 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=4000&color=E48FB1&center=true&vCenter=true&width=600&lines=Hi,+I'm+Asylum999+%F0%9F%8C%B8;Coding+with+Cherry+Blossom+Energy+%F0%9F%92%9C;Java+%7C+C+%7C+VSCode+Lover" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asylum999&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Asylum999&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asylum999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Asylum999&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Asylum999&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0b/0e/df/0b0edfbd1f9608609f0a54a761d8fa69.gif" alt="Cherry Blossom GIF" width="300" style="border-radius: 15px;" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asylum999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌸 About Me  
+I'm a passionate beginner who codes with sakura spirit:  
+- Learning **Java** & **C**  
+- Loves creating clean interfaces  
+- Coding mostly on **VSCode** & **IntelliJ Ultimate**  
+- Obsessed with pink aesthetics & cherry blossoms  
+
+---
+
+### 🧰 Tools I Use  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" />
+</p>
+
+---
+
+### ✨ Aesthetic Sakura Vibes  
+<p align="center">
+  <img src="https://media.tenor.com/yheo1GGu3FwAAAAC/sakura-anime.gif" width="300" />
+</p>
+
+<p align="center" style="font-style: italic; color: #e48fb1; font-size: 18px;">
+  "Just like cherry blossoms, bloom with grace and fall with beauty."
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=eb8cbf&height=120&section=footer" />
+</p>
+
+---
+
+### 📫 Let’s Connect  
+<p align="center">
+  <a href="mailto:adzkadiandra@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-adzkadiandra@gmail.com-e48fb1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/diiandraa_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@diiandraa_-e48fb1?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asylum999&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
+</p>
