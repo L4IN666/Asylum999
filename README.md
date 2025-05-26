@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0b/0e/df/0b0edfbd1f9608609f0a54a761d8fa69.gif" alt="Cherry Blossom GIF" width="300" style="border-radius: 15px;" />
+  <img src="https://media.tenor.com/FsV7ebwSgygAAAAC/anime-girl.gif" alt="Anime Sakura GIF" width="300" style="border-radius: 15px;" />
 </p>
 
 ---
@@ -35,7 +35,7 @@ I'm a passionate beginner who codes with sakura spirit:
 
 ### ✨ Aesthetic Sakura Vibes  
 <p align="center">
-  <img src="https://media.tenor.com/yheo1GGu3FwAAAAC/sakura-anime.gif" width="300" />
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-sakura.gif" width="300" />
 </p>
 
 <p align="center" style="font-style: italic; color: #e48fb1; font-size: 18px;">
