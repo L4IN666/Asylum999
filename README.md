@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=4000&color=4b4b4b&center=true&vCenter=true&width=600&lines=Hi,+I'm+Asylum999+🌙;Coding+with+a+Calm+Aesthetic+;Java+%7C+C+%7C+VSCode+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=4000&color=d6aadd&center=true&vCenter=true&width=600&lines=Hi,+I'm+Asylum999+🌙;Coding+with+a+Calm+Aesthetic+;Java+%7C+C+%7C+VSCode+Lover" />
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 ---
 
 ### 👤 About Me  
+Hello everyone  
 I'm a passionate beginner who codes with calm spirit:  
 - Learning **Java** & **C**  
 - Loves creating clean, minimal interfaces  
@@ -65,5 +66,13 @@ I'm a passionate beginner who codes with calm spirit:
 
 ### 📊 My GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asylum999&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asylum999&show_icons=true&theme=github_dark&hide_border=true&icon_color=cfcfcf&title_color=d6aadd&text_color=dddddd&bg_color=30,2e2e2e,3a3a3a" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asylum999&theme=github-dark&hide_border=true&background=2e2e2e&ring=d6aadd&fire=eac7ff&currStreakLabel=d6aadd" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asylum999&layout=compact&theme=github_dark&hide_border=true&bg_color=30,3a3a3a,2e2e2e&title_color=d6aadd&text_color=dddddd" />
 </p>
