@@ -9,12 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/FsV7ebwSgygAAAAC/anime-girl.gif" alt="Anime Aesthetic GIF" width="300" style="border-radius: 15px;" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Anime Aesthetic GIF" width="300" style="border-radius: 15px;" />
+  
+  <p align="center" style="font-style: italic; color: #4b4b4b; font-size: 18px;">
+  Hellooww :3
 </p>
 
 ---
 
-### 👤 About Me  
+### 👤 About Me 🤓
 Hello everyone  
 I'm a passionate beginner who codes with calm spirit:  
 - Learning **Java** & **C**  
