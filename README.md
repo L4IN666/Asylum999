@@ -1,81 +1,88 @@
-<!-- README.md Asylum999 -->
+<div align="center">
 
-<h1 align="center" style="color:#4b4b4b; font-family:'Segoe UI', sans-serif;">
-  Welcome to my GitHub :)
-</h1>
+<!-- top accent bar -->
+![](https://capsule-render.vercel.app/api?type=rect&color=9b7fa8&height=3&section=header&fontSize=0)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=4000&color=d6aadd&center=true&vCenter=true&width=600&lines=Hi,+I'm+Asylum999+🌙;Coding+with+a+Calm+Aesthetic+;Java+%7C+C+%7C+VSCode+Lover" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" alt="Anime Aesthetic GIF" width="300" style="border-radius: 15px;" />
-  
-  <p align="center" style="font-style: italic; color: #4b4b4b; font-size: 18px;">
-  Hellooww :3
-</p>
+<br/>
 
----
+<table width="100%">
+<tr>
+<td width="70%" valign="bottom">
 
-### 👤 About Me 🤓
-Hello everyone  
-I'm a passionate beginner who codes with calm spirit:  
-- Learning **Java** & **C**  
-- Loves creating clean, minimal interfaces  
-- Coding mostly on **VSCode** & **IntelliJ Ultimate**  
-- Focused on simple, aesthetic design  
+<!-- eyebrow -->
+<sub>GITHUB PROFILE &nbsp;·&nbsp; UNIVERSITAS MUHAMMADIYAH MALANG</sub>
 
----
+## Diandra *Adzka*
 
-### 🛠 Tools I Use  
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="45" />
-</p>
+`Informatics Student` &nbsp;·&nbsp; `Java & C` &nbsp;·&nbsp; `Data Structures & Algorithms`
+
+Building clean, structured, and purposeful code.
+
+</td>
+<td width="30%" align="right" valign="bottom">
+
+<sub><code>NIM · 202410370110024</code></sub><br/>
+<sub><code>S1 Informatika · 2024</code></sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Asylum999&color=9b7fa8&style=flat&label=profile+views)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ✨ Calm Aesthetic Vibes  
-<p align="center">
-  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/anime-sakura.gif" width="300" />
-</p>
+## `about`
 
-<p align="center" style="font-style: italic; color: #4b4b4b; font-size: 18px;">
-  "Create with calm, code with clarity."
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
-</p>
+| | |
+|---|---|
+| **University** | Universitas Muhammadiyah Malang — S1 Informatika |
+| **Focus** | Data Structures · Algorithms · Object-Oriented Programming |
+| **Currently learning** | Java & C · System Design Thinking |
+| **Philosophy** | Clean, minimal, and readable code above all else. |
 
 ---
 
-### 📫 Let’s Connect  
-<p align="center">
-  <a href="mailto:adzkadiandra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-adzkadiandra@gmail.com-4b4b4b?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/diiandraa_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@diiandraa_-4b4b4b?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/asyllum" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-asyllum-4b4b4b?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-</p>
+## `skills`
+
+```text
+Data Structures        ████████████████████░░   88%
+Object-Oriented Java   ████████████████████░░░  82%
+Problem Solving        ███████████████████░░░░  79%
+C Programming          ████████████████░░░░░░░  72%
+System Design          ████████████████░░░░░░░  65%
+```
 
 ---
 
-### 📊 My GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asylum999&show_icons=true&theme=github_dark&hide_border=true&icon_color=cfcfcf&title_color=d6aadd&text_color=dddddd&bg_color=30,2e2e2e,3a3a3a" />
-</p>
+## `tech stack`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asylum999&theme=github-dark&hide_border=true&background=2e2e2e&ring=d6aadd&fire=eac7ff&currStreakLabel=d6aadd" />
-</p>
+![Java](https://img.shields.io/badge/Java-9b7fa8?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-b89fc0?style=flat-square&logo=c&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-c9b8d4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-d4c8dc?style=flat-square&logo=intellijidea&logoColor=9b7fa8)
+![Git](https://img.shields.io/badge/Git-ddd0e3?style=flat-square&logo=git&logoColor=9b7fa8)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asylum999&layout=compact&theme=github_dark&hide_border=true&bg_color=30,3a3a3a,2e2e2e&title_color=d6aadd&text_color=dddddd" />
-</p>
+---
+
+## `contact`
+
+[![Email](https://img.shields.io/badge/·_adzkadiandra@gmail.com-9b7fa8?style=flat-square)](mailto:adzkadiandra@gmail.com)
+[![Instagram](https://img.shields.io/badge/·_@diiandraa__-b89fc0?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/diiandraa_)
+[![Linktree](https://img.shields.io/badge/·_linktr.ee/asyllum-c9b8d4?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/asyllum)
+
+---
+
+<div align="center">
+
+> *"Create with calm, code with clarity."*
+> 
+> <sub>— personal motto</sub>
+
+<br/>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=9b7fa8,c9b8d4&height=80&section=footer&fontSize=0)
+
+</div>
